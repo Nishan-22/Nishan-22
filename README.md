@@ -14,7 +14,7 @@ I enjoy working with both frontend and backend technologies, and I’m exploring
 
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nishanpaudel)  
+- [LinkedIn](https://www.linkedin.com/in/nishan-paudel-2784ba2b3/)  
 
 
 ## GitHub Stats
