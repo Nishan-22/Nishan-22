@@ -11,7 +11,12 @@ I enjoy working with both frontend and backend technologies, and I’m exploring
 - Blockchain: Solidity, Web3.js, Smart Contracts  
 
 ## Projects:
-[Portfolio Website](https://github.com/Nishan-22/personal-Portfolio/tree/main/blog_project)
+## 🗂️ **Portfolio Website**  
+`HTML` `CSS`  `PHP` 
+
+A clean and responsive **portfolio website**.  
+🔗   
+📁 **Repo:** https://github.com/Nishan-22/personal-Portfolio/tree/main/blog_project
 
 
 ## Connect with Me
