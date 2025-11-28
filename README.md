@@ -19,9 +19,9 @@ A clean and responsive **portfolio website**.
 📁 **Repo:** https://github.com/Nishan-22/personal-Portfolio/tree/main/blog_project
 
 
-## Connect with Me
+## Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/nishan-paudel-2784ba2b3/)  
 
 
-## GitHub Stats
+## GitHub Stats:
 ![Nishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=NishanPaudel&show_icons=true&theme=radical)
