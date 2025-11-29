@@ -11,7 +11,7 @@ I enjoy working with both frontend and backend technologies, and I’m exploring
 - Blockchain: Solidity, Web3.js, Smart Contracts  
 
 ## Projects:
-## 🗂️ **Portfolio Website**  
+## 🗂️ **Portfolio Website:**  
 `HTML` `CSS`  `PHP` 
 
 A clean and responsive **portfolio website**.  
