@@ -16,7 +16,16 @@ I enjoy working with both frontend and backend technologies, and I’m exploring
 
 A clean and responsive **portfolio website**.  
 🔗   
-📁 **Repo:** https://github.com/Nishan-22/personal-Portfolio/tree/main/blog_project
+📁 **Repo:** https://github.com/Nishan-22/University-Website/tree/main/university%20website
+---
+
+### 🎓 University Website  
+`HTML` `CSS` `PHP` `SQL`
+
+A fully functional **university website** built with clean UI and essential academic features such as departments, faculty pages, student information, and notices — powered by PHP and SQL on the backend.
+
+📁 **Repo:** https://github.com/NishanPaudel/university-website
+
 
 
 ## Connect with Me:
