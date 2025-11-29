@@ -1,30 +1,43 @@
- Hi, I'm Nishan Paudel 👋
+# Hi, I'm Nishan Paudel 👋  
 💻 Passionate Web Developer & Web3 Enthusiast  
 
- About Me:
-I love crafting scalable, functional, and beautiful web applications.  
-I enjoy working with both frontend and backend technologies, and I’m exploring blockchain development.  
-
-## Skills
-- Frontend: HTML, CSS, JavaScript, Tailwind CSS, Reac 
-- Backend: Node.js, Python (Flask/Django), PHP  
-- Blockchain: Solidity, Web3.js, Smart Contracts  
-
-## Projects:
-## 🗂️ **Portfolio Website:**  
-`HTML` `CSS`  `PHP` 
-
-A clean and responsive **portfolio website**.  
-🔗   
-📁 **Repo:** https://github.com/Nishan-22/personal-Portfolio/tree/main/blog_project
 ---
 
-### 🎓 University Website  
-`HTML` `CSS` `PHP` `SQL`
+## 🔥 About Me  
+I love crafting scalable, functional, and beautiful web applications.  
+I work with both frontend and backend technologies, and I’m currently exploring blockchain development.  
 
-A fully functional **university website** built with clean UI and essential academic features such as departments, faculty pages, student information, and notices — powered by PHP and SQL on the backend.
+---
 
-📁 **Repo:** https://github.com/NishanPaudel/university-website
+## 🛠️ Skills  
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Python (Flask/Django), PHP  
+- **Blockchain:** Solidity, Web3.js, Smart Contracts  
+
+---
+
+## 🚀 Projects
+
+### 🗂️ **Portfolio Website**  
+`HTML` `CSS` `PHP`  
+
+A clean and responsive **portfolio website**.  
+📁 **Repo:**  
+https://github.com/Nishan-22/personal-Portfolio/tree/main/blog_project
+
+---
+
+### 🎓 **University Website**  
+`HTML` `CSS` `PHP` `SQL`  
+
+A fully functional **university website** with clean UI, department pages, faculty info, student information, and notice management — powered by PHP & SQL.
+
+📁 **Repo:**  
+https://github.com/NishanPaudel/university-website
+
+---
+
+
 
 
 
