@@ -33,7 +33,8 @@ https://github.com/Nishan-22/personal-Portfolio/tree/main/blog_project
 A fully functional **university website** with clean UI, department pages, faculty info, student information, and notice management — powered by PHP & SQL.
 
 📁 **Repo:**  
-https://github.com/NishanPaudel/university-website
+[![GitHub Repo](https://img.shields.io/badge/Repository-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/NishanPaudel/university-website)
+
 
 ---
 
