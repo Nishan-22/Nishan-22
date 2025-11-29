@@ -15,6 +15,11 @@ I work with both frontend and backend technologies, and I’m currently explorin
 - **Blockchain:** Solidity, Web3.js, Smart Contracts  
 
 ---
+## 🌱 Exploring  
+I’m diving into **Blockchain & Web3** development — learning Solidity, Smart Contracts, Web3.js, and the fundamentals of decentralized applications.  
+Building small projects to sharpen my blockchain skills step-by-step.
+
+---
 
 ## 🚀 Projects
 
