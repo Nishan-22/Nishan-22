@@ -42,7 +42,7 @@ A fully functional **university website** with clean UI, department pages, facul
 
 ## Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/nishan-paudel-2784ba2b3/)
-- 📧 [paudelnishan47@gmail.com](mailto:paudelnishan47@gmail.com)
+- [paudelnishan47@gmail.com](mailto:paudelnishan47@gmail.com)
 
 
 ## GitHub Stats:
