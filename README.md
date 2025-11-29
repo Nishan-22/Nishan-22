@@ -16,7 +16,7 @@ I enjoy working with both frontend and backend technologies, and I’m exploring
 
 A clean and responsive **portfolio website**.  
 🔗   
-📁 **Repo:** https://github.com/Nishan-22/University-Website/tree/main/university%20website
+📁 **Repo:** https://github.com/Nishan-22/personal-Portfolio/tree/main/blog_project
 ---
 
 ### 🎓 University Website  
