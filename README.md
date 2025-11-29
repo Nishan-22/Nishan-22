@@ -34,7 +34,7 @@ A clean and responsive **portfolio website**.
 ### 🎓 **University Website**  
 `HTML` `CSS` `PHP` `SQL`  
 
-A fully functional **university website** with clean UI, department pages, faculty info, student information, and notice management — powered by PHP & SQL.
+A fully functional **university website** with clean UI - powered by PHP & SQL.
   
 [![GitHub Repo](https://img.shields.io/badge/Repository-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Nishan-22/University-Website/tree/main/university%20website)
 
