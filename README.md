@@ -12,7 +12,7 @@ I work with both frontend and backend technologies, and I’m currently explorin
 ## 🛠️ Skills  
 - **Frontend:** HTML, CSS, JavaScript, Tailwind CSS  
 - **Backend:** Node.js, Python (Flask/Django), PHP  
-- **Blockchain:** Solidity, Web3.js, Smart Contracts  
+ 
 
 ---
 ## 🌱 Exploring  
