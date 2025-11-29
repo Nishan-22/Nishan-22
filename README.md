@@ -26,7 +26,8 @@ Building small projects to sharpen my blockchain skills step-by-step.
 ### 🗂️ **Portfolio Website**  
 `HTML` `CSS` `PHP`  
 
-A clean and responsive **portfolio website**.    
+A clean and responsive **portfolio website**.   
+
 [![GitHub Repo](https://img.shields.io/badge/Repository-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Nishan-22/personal-Portfolio)
 
 ---
