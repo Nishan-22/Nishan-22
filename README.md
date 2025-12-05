@@ -42,6 +42,8 @@ A fully functional **university website** with clean UI - powered by PHP & SQL.
 
 ---
 
+## 📝 My Articles
+- [![GitHub Repo](https://github.com/Nishan-22/django-beginner-project)
 
 
 
