@@ -53,8 +53,9 @@ A fully functional **university website** with clean UI - powered by PHP & SQL.
 
 
 ## GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nishan-22)
+## GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishan-22&show_icons=true&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishan-22&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishan-22&layout=compact&theme=github_dark)
 
