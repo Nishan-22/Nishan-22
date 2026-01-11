@@ -19,16 +19,22 @@ I work with both frontend and backend technologies, and I’m currently explorin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-## 🌱 Exploring  
 ## 🌱 Exploring
-I’m currently exploring **Blockchain & Web3** by:  
+I’m currently exploring **Blockchain & Web3** by building skills in:
 
-- ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) Learning **Solidity** & writing smart contracts  
-- ![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white) Building **decentralized applications (dApps)** using Web3.js  
-- ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white) Understanding **Ethereum fundamentals** and decentralized protocols  
-- ![Project](https://img.shields.io/badge/Project-🏗️-blue?style=for-the-badge) Creating **small projects** to sharpen my blockchain skills step-by-step
+**Technologies & Tools:**  
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) 
+![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white) 
+![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white) 
+![Hardhat](https://img.shields.io/badge/Hardhat-6E3CFF?style=for-the-badge&logo=ethereum&logoColor=white) 
+![Metamask](https://img.shields.io/badge/Metamask-FFA500?style=for-the-badge&logo=metamask&logoColor=white)
 
----
+**Focus Areas:**  
+- Writing **smart contracts** with Solidity  
+- Building **decentralized applications (dApps)** with Web3.js  
+- Understanding **Ethereum fundamentals & decentralized protocols**  
+- Creating **small projects** to sharpen my blockchain skills step-by-step
+
 
 ## 🚀 Projects
 
