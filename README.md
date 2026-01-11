@@ -20,8 +20,13 @@ I work with both frontend and backend technologies, and I’m currently explorin
 
 ---
 ## 🌱 Exploring  
-I’m diving into **Blockchain & Web3** development — learning Solidity, Smart Contracts, Web3.js, and the fundamentals of decentralized applications.  
-Building small projects to sharpen my blockchain skills step-by-step.
+## 🌱 Exploring
+I’m currently exploring **Blockchain & Web3** by:  
+
+- ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) Learning **Solidity** & writing smart contracts  
+- ![Web3.js](https://img.shields.io/badge/Web3.js-000000?style=for-the-badge&logo=web3dotjs&logoColor=white) Building **decentralized applications (dApps)** using Web3.js  
+- ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=for-the-badge&logo=ethereum&logoColor=white) Understanding **Ethereum fundamentals** and decentralized protocols  
+- ![Project](https://img.shields.io/badge/Project-🏗️-blue?style=for-the-badge) Creating **small projects** to sharpen my blockchain skills step-by-step
 
 ---
 
