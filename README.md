@@ -12,112 +12,38 @@ I work with both frontend and backend technologies, and I’m currently explorin
 
 <div align="center">
 
-# 🏠 **Room Finder**
+# 🏠 Room Finder
 
-**Your next home, found easily.** A full-stack rental platform connecting landlords with tenants through a seamless, image-centric interface.
+### **Find your perfect space.** A cozy web app to browse listings, view details, and manage room posts.
 
-[![Live App](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-success?style=for-the-badge&logo=render&logoColor=white)](https://roomfinder-0rdh.onrender.com)
-[![GitHub Repo](https://img.shields.io/badge/💻_Source_Code-View_Repo-blue?style=for-the-badge&logo=github)](https://github.com/Nishan-22/roomfinder)
+[![Live App](https://img.shields.io/badge/✨_Live_Demo-Click_Here-ff69b4?style=for-the-badge&logo=render&logoColor=white)](https://roomfinder-0rdh.onrender.com)
+[![GitHub Repo](https://img.shields.io/badge/💻_Code-View_Repo-9cf?style=for-the-badge&logo=github)](https://github.com/Nishan-22/roomfinder)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+<br />
+
+<img src="https://github.com/user-attachments/assets/9508ba8d-8ef5-4e66-8ea7-d13557747ce3" alt="Room Finder Preview" width="100%" style="border-radius: 10px;">
+
+<br />
+
+### 🛠️ Built With
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+---
+
+### ✨ What can you do?
+
+**🔍 Explore** - Browse beautiful room listings.  
+**📸 Share** - Upload images easily with Cloudinary.  
+**📝 Manage** - Create and edit your own posts.  
+
+<br />
+
+Made with 💙 by [Nishan](https://github.com/Nishan-22)
 
 </div>
-
----
-
-## 📖 **About The Project**
-
-**Room Finder** is designed to solve the fragmentation of rental listings. It serves as a centralized hub where users can browse high-quality room details and landlords can manage property listings effortlessly.
-
-Built with **Django**, the application focuses on performance and scalability, using **PostgreSQL** for robust data management and **Cloudinary** for optimized image delivery.
-
-### ✨ **Key Features**
-* **🔍 Interactive Browsing:** Filter and view rooms with detailed pricing and descriptions.
-* **📸 Cloudinary Integration:** Fast, optimized image uploads and rendering.
-* **🔐 User Accounts:** Secure authentication for landlords to manage their posts.
-* **📱 Responsive Design:** Fully functional on mobile, tablet, and desktop.
-* **🛠 CRUD Operations:** Complete control to Create, Read, Update, and Delete listings.
-
----
-
-## 🖼️ **Project Preview**
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/9508ba8d-8ef5-4e66-8ea7-d13557747ce3" alt="Room Finder Dashboard" width="100%">
-</div>
-
----
-
-## 🛠️ **Tech Stack**
-
-| Component | Technology |
-| :--- | :--- |
-| **Backend** | Django, Python |
-| **Database** | PostgreSQL |
-| **Media Storage** | Cloudinary API |
-| **Frontend** | HTML5, CSS3, Bootstrap |
-| **Deployment** | Render |
-
----
-
-## 🚀 **Getting Started**
-
-Follow these instructions to set up the project locally.
-
-### **Prerequisites**
-* Python 3.x installed
-* PostgreSQL installed
-
-### **Installation**
-
-1.  **Clone the repository**
-    ```bash
-    git clone [https://github.com/Nishan-22/roomfinder.git](https://github.com/Nishan-22/roomfinder.git)
-    cd roomfinder
-    ```
-
-2.  **Create a virtual environment**
-    ```bash
-    python -m venv venv
-    # Windows:
-    venv\Scripts\activate
-    # Mac/Linux:
-    source venv/bin/activate
-    ```
-
-3.  **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Set up Environment Variables**
-    Create a `.env` file in the root directory and add your credentials:
-    ```env
-    SECRET_KEY=your_secret_key
-    DEBUG=True
-    DATABASE_URL=your_postgres_url
-    CLOUDINARY_CLOUD_NAME=your_cloud_name
-    CLOUDINARY_API_KEY=your_api_key
-    CLOUDINARY_API_SECRET=your_api_secret
-    ```
-
-5.  **Run Migrations & Server**
-    ```bash
-    python manage.py migrate
-    python manage.py runserver
-    ```
-
----
-
-## 📬 **Contact**
-
-**Nishan** - [GitHub Profile](https://github.com/Nishan-22)
-
-Project Link: [https://github.com/Nishan-22/roomfinder](https://github.com/Nishan-22/roomfinder)
----
 
 ## 🛠️ Skills  :
 
