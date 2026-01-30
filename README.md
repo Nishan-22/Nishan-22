@@ -23,7 +23,8 @@ A full-stack **room rental platform** where users can browse listings, view room
 
 🖼️ **Project Preview**
 
-![Room Finder Screenshot](images/roomfinder.png)
+<img width="1877" height="900" alt="image" src="https://github.com/user-attachments/assets/9508ba8d-8ef5-4e66-8ea7-d13557747ce3" />
+
 
 
 ## 🛠️ Skills  :
