@@ -8,22 +8,23 @@ I love crafting scalable, functional, and beautiful web applications.
 I work with both frontend and backend technologies, and I’m currently exploring blockchain development.  
 
 ---
-🏠 Room Finder Web App
 
-Django Python PostgreSQL Cloudinary Render
 
-A full-stack room rental platform where users can:
+### 🏠 **Room Finder Web App**  
+`Django` `Python` `PostgreSQL` `Cloudinary` `Render`  
 
-Browse room listings
+A full-stack **room rental platform** where users can browse listings, view room details, upload images, and manage their own room posts.
 
-View detailed room information
+🌍 **Live Demo**  
+[![Live App](https://img.shields.io/badge/Live%20App-Visit%20Now-success?style=for-the-badge&logo=render&logoColor=white)](https://roomfinder-0rdh.onrender.com)
 
-Upload room images
+💻 **Source Code**  
+[![GitHub Repo](https://img.shields.io/badge/Repository-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Nishan-22/roomfinder)
 
-Manage their own listings
+🖼️ **Project Preview**
 
-🌍 Live App:
-👉 https://roomfinder-0rdh.onrender.com
+![Room Finder Screenshot](images/roomfinder.png)
+
 
 ## 🛠️ Skills  :
 
