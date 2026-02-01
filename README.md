@@ -5,7 +5,8 @@
 
 ## 🔥 About Me  
 I love crafting scalable, functional, and beautiful web applications.  
-I work with both frontend and backend technologies, and I’m currently exploring blockchain development.  
+I work with both frontend and backend technologies, and I’m currently exploring blockchain development. 
+
 
 ---
 
