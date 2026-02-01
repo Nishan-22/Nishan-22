@@ -106,7 +106,7 @@ A fully functional **university website** with clean UI - powered by PHP & SQL.
 ## GitHub Stats:
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishan-22&layout=compact&theme=github_dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishan-22&theme=github-dark)
 
 
