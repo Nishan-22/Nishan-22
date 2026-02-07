@@ -1,4 +1,4 @@
-# Hi, I'm Nishan Paudel 👋  
+8# Hi, I'm Nishan Paudel 👋  
 💻 Passionate Web Developer & Web3 Enthusiast  
 
 ---
@@ -6,6 +6,7 @@
 ## 🔥 About Me  
 I love crafting scalable, functional, and beautiful web applications.  
 I work with both frontend and backend technologies, and I’m currently exploring blockchain development. 
+
 
 
 ---
