@@ -1,5 +1,5 @@
  Hi, I'm Nishan Paudel   
-💻 Passionate Web Developer & Web3 Enthusiast  
+💻 Passionate Web Developer & Web3 Enthusiast.  
 
 ---
 
