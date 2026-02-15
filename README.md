@@ -99,7 +99,6 @@ A fully functional **university website** with clean UI - powered by PHP & SQL.
 - [How I Built a University Website Using Django](https://medium.com/@paudelnishan47/how-i-built-a-simple-university-website-using-django-beginner-friendly-guide-2830043ee146?postPublishedType=initial)
 
 
-
 ## Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/nishan-paudel-2784ba2b3/)
 - [paudelnishan47@gmail.com](mailto:paudelnishan47@gmail.com)
