@@ -71,7 +71,7 @@ I’m currently exploring **Blockchain & Web3** by building skills in:
 - Writing **smart contracts** with Solidity  
 - Building **decentralized applications (dApps)** with Web3.js  
 - Understanding **Ethereum fundamentals & decentralized protocols**  
-- Creating **small projects** to sharpen my blockchain skills step-by-step.
+
 
 
 ## 🚀 Projects
