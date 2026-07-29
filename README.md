@@ -81,7 +81,7 @@ I’m currently exploring **Blockchain & Web3** by building skills in:
 
 A clean and responsive **portfolio website**.   
 
-[![GitHub Repo](https://img.shields.io/badge/Repository-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Nishan-22/personal-Portfolio)
+[![GitHub Repo](https://github.com/Nishan-22/portfolio-site)
 
 ---
 
