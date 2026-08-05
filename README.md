@@ -1,4 +1,4 @@
- Hi, I'm Nishan Paudel   
+ Hi, I'm Nishan Paudel.  
  Passionate Web Developer & Web3 Enthusiast.  
 
 ---
