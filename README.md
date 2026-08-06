@@ -85,7 +85,7 @@ A clean and responsive **portfolio website**.
 ---
 
 ### 🎓 **University Website**  
-`HTML` `CSS` `PHP` `SQL`  
+`HTML` `CSS` `PHP`  
 
 A fully functional **university website** with clean UI - powered by PHP & SQL.
   
