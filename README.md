@@ -16,7 +16,7 @@ I work with both frontend and backend technologies, and I’m currently explorin
 
 # 🏠 Room Finder
 
-### **Find your perfect space.** A cozy web app to browse listings, view details, and manage room posts.
+### **Find your perfect space.** A cozy web app to browse listings, view details.
 
 [![Live App](https://img.shields.io/badge/✨_Live_Demo-Click_Here-ff69b4?style=for-the-badge&logo=render&logoColor=white)](https://roomfinder-0rdh.onrender.com)
 [![GitHub Repo](https://img.shields.io/badge/💻_Code-View_Repo-9cf?style=for-the-badge&logo=github)](https://github.com/Nishan-22/roomfinder)
