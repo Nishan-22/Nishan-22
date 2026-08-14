@@ -37,8 +37,8 @@ I work with both frontend and backend technologies, and I’m currently explorin
 
 ### ✨ What can you do?
 
-**🔍 Explore** - Browse beautiful room listings.    
-**📝 Manage** - Create and edit your own posts.  
+**Explore** - Browse beautiful room listings.    
+**Manage** - Create and edit your own posts.  
 
 <br />
 
