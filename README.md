@@ -23,7 +23,7 @@ I work with both frontend and backend technologies, and I’m currently explorin
 
 <br />
 
-<img src="https://github.com/user-attachments/assets/9508ba8d-8ef5-4e66-8ea7-d13557747ce3" alt="Room Finder Preview" width="100%" style="border-radius: 10px;">
+<!-- <img src="https://github.com/user-attachments/assets/9508ba8d-8ef5-4e66-8ea7-d13557747ce3" alt="Room Finder Preview" width="100%" style="border-radius: 10px;"> -->
 
 <br />
 
