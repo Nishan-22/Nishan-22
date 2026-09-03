@@ -42,8 +42,6 @@ I work with both frontend and backend technologies, and I’m currently explorin
 
 <br />
 
-Made by [Nishan](https://github.com/Nishan-22)
-
 </div>
 
 ## 🛠️ Skills  :
