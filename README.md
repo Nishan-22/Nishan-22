@@ -26,7 +26,9 @@ A blockchain-based voting platform that allows users to connect their wallet and
 
 <br />
 
-<img src="YOUR_PROJECT_IMAGE_URL" alt="Decentralized Voting Platform Preview" width="100%" style="border-radius: 10px;">
+<img src="https://raw.githubusercontent.com/Nishan-22/Nishan-22/main/assets/voting-platform.png"
+     alt="Decentralized Voting Platform Preview"
+     width="100%">
 
 <br />
 
