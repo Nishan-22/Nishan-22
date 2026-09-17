@@ -1,5 +1,5 @@
 
-# Hi, I'm Nishan Paudel 👋
+# Hi, I'm Nishan Paudel
 
 ### Web Developer & Web3 Enthusiast
 
