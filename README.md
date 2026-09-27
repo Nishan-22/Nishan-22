@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I love crafting scalable, functional, and beautiful web applications.
+I love crafting scalable, functional, and beautiful web applications
 
 I work with both frontend and backend technologies, while building practical projects to explore **Blockchain and Web3 development**.
 
